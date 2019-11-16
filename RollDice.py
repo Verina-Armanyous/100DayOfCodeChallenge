@@ -1,3 +1,4 @@
+#Day1 of the challenge
 import random  
 
 def roll_dice(): 
