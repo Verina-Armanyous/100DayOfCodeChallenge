@@ -1,3 +1,5 @@
+#Day2 
+#The following code stimulates Rock, Paper, and Scissors game. The user is given two options: either to play against the computer or to play against another player.
 import random
 def player1_pick():
     '''This function return the choice of player 1'''
